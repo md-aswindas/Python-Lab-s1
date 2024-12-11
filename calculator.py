@@ -1,4 +1,4 @@
-print("----CALCULATOR----");
+print("-----CALCULATOR-----");
 print(" 1 --> Addition \n 2 --> Diffrence \n 3 --> Multiplication \n 4 --> Division")
 a=int(input("Enter a number --------->"))
 b=int(input("Enter another number --->"))
